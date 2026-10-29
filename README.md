@@ -4,6 +4,10 @@ I build mobile and web applications, automate workflows with Python, and explore
 
 ## Selected work
 
+### [Business performance dashboard — Python & Streamlit](https://github.com/0thanh2000/tiniky-quant-portfolio/tree/main/business-dashboard)
+
+An interactive portfolio demo featuring synthetic orders, revenue and product analysis, date/category/region filters and CSV export. Includes a reproducible data generator and local setup instructions.
+
 ### [Tiniky — Flutter social networking app](https://github.com/0thanh2000/tiniky-quant-portfolio/tree/main/social_app)
 
 A social app project with Flutter, Android and Supabase. The portfolio includes source code and screenshots showing the feed, profiles, connections and video interface. [View screenshots and project details](https://github.com/0thanh2000/tiniky-quant-portfolio#tiniky--flutter-social-application) · [Support and policies](https://tiniky-support.rosymochi17.chatgpt.site/)
